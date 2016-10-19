@@ -1,3 +1,3 @@
 # hello-world
 first repository
-A ver como sifunciona
+A ver si funciona.
